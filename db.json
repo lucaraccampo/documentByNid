@@ -1,36 +1,40 @@
 {
-    "docs": [
-        {
-            "id": "8600",
-            "title": "Condizioni tecnico-economiche e Scheda di confrontabilità (prezzo indicizzato)",
-            "link": "AXPODT2022-4-14722",
-            "type": "",
-            "dimension": "",
-            "priceType": "prezzo-indicizzato"
-        },
-        {
-            "id": "8601",
-            "title": "Condizioni tecnico-economiche e Scheda di confrontabilità (prezzo fisso)",
-            "link": "AXPODT2022-630736552-4904451",
-            "type": "",
-            "dimension": "",
-            "priceType": "prezzo-fisso"
-        },
-        {
-            "id": "1",
-            "title": "Condizioni generali di fornitura",
-            "link": "AXPODT2019-4-51",
-            "type": "",
-            "dimension": "",
-            "priceType": null
-        },
-        {
-            "id": "1",
-            "title": "Note informative al cliente",
-            "link": "AXPODT2019-4-53",
-            "type": "",
-            "dimension": "",
-            "priceType": null
-        }
-    ]
+    "data": {
+       "id": "docs-to-download",
+        "docs": [
+            {
+                "id": "8600",
+                "title": "Condizioni tecnico-economiche e Scheda di confrontabilità (prezzo indicizzato)",
+                "link": "AXPODT2022-4-14722",
+                "type": "",
+                "dimension": "",
+                "priceType": "prezzo-indicizzato"
+            },
+            {
+                "id": "8601",
+                "title": "Condizioni tecnico-economiche e Scheda di confrontabilità (prezzo fisso)",
+                "link": "AXPODT2022-630736552-4904451",
+                "type": "",
+                "dimension": "",
+                "priceType": "prezzo-fisso"
+            },
+            {
+                "id": "1",
+                "title": "Condizioni generali di fornitura",
+                "link": "AXPODT2019-4-51",
+                "type": "",
+                "dimension": "",
+                "priceType": null
+            },
+            {
+                "id": "1",
+                "title": "Note informative al cliente",
+                "link": "AXPODT2019-4-53",
+                "type": "",
+                "dimension": "",
+                "priceType": null
+            }
+        ] 
+    }
+    
 }
